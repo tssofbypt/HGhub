@@ -1,0 +1,12 @@
+{
+  "name": "本机开放短片源",
+  "description": "Blender 开放电影的本地适配配置；不含账号或密钥。",
+  "plugins": [
+    {
+      "id": "local.open-films",
+      "name": "开放短片 · Blender",
+      "version": "1.0.0",
+      "url": "open-films.js"
+    }
+  ]
+}
